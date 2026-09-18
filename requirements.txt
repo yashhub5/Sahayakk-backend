@@ -1,0 +1,7 @@
+alembic==1.20.0
+Mako==1.4.1
+MarkupSafe==3.0.3
+psycopg2-binary==2.9.13
+python-dotenv==1.2.3
+SQLAlchemy==2.0.53
+typing_extensions==4.16.0
